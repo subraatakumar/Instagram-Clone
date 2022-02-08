@@ -100,7 +100,7 @@ export function AuthProvider({ children }) {
               likedPosts: [],
               postsCounter: 0,
               followers: [],
-              following: ['e9x1NbFsE8VqLAqAKfbpHkH0QS93'],
+              following: ['ntSjTlDqtCMEGBIoEvzM7IQe4c52'],
               messagesCounter: 0,
               notifications: [],
               theme: 'light',
@@ -114,22 +114,22 @@ export function AuthProvider({ children }) {
               .collection('users')
               .doc(currentUser.uid)
               .collection('messages')
-              .doc('e9x1NbFsE8VqLAqAKfbpHkH0QS93')
+              .doc('ntSjTlDqtCMEGBIoEvzM7IQe4c52')
               .set({
                 messages: [
                   {
-                    message: `Hi ${currentUser.displayName}, Thanks for signing up and testing my project. Please look around and test all the features you can. You can reply to this message if you'd like, but I might not see it. So, to get in touch please email me at joshnwarren@gmail.com.`,
+                    message: `Hi ${currentUser.displayName}, Thanks for signing up and testing my project. Please look around and test all the features you can. You can reply to this message if you'd like, but I might not see it. So, to get in touch please email me at codingsubrata@gmail.com.`,
                     time: currentTime,
-                    user: 'e9x1NbFsE8VqLAqAKfbpHkH0QS93',
+                    user: 'ntSjTlDqtCMEGBIoEvzM7IQe4c52',
                   },
                 ],
                 time: currentTime,
-                user: 'e9x1NbFsE8VqLAqAKfbpHkH0QS93',
+                user: 'ntSjTlDqtCMEGBIoEvzM7IQe4c52',
               });
           };
           //+ update my followers
           const addFollower = () => {
-            const userRef = firestore.collection('users').doc('e9x1NbFsE8VqLAqAKfbpHkH0QS93');
+            const userRef = firestore.collection('users').doc('ntSjTlDqtCMEGBIoEvzM7IQe4c52');
             userRef.update({
               followers: firestoreFieldValue.arrayUnion(currentUser.uid),
             });
@@ -137,7 +137,7 @@ export function AuthProvider({ children }) {
 
           //+ notify me
           const notify = () => {
-            const userRef = firestore.collection('users').doc('e9x1NbFsE8VqLAqAKfbpHkH0QS93');
+            const userRef = firestore.collection('users').doc('ntSjTlDqtCMEGBIoEvzM7IQe4c52');
             userRef.update({
               notifications: firestoreFieldValue.arrayUnion({
                 user: currentUser.uid,

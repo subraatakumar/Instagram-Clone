@@ -1,7 +1,7 @@
 {
   "name": "instagram-clone",
-  "homepage": "http://joshwrn.github.io/instagram-clone",
-  "version": "0.1.0",
+  "homepage": "http://subratsir.github.io/Instagram-Clone",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@material-ui/icons": "^4.11.2",

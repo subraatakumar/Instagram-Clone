@@ -3,7 +3,7 @@
 I built this project using react. Besides using create-react-app and firestore, I built everything from scratch.
 In total it took me around 20 days to complete.
 
-## [Live Demo](https://joshwrn.github.io/instagram-clone/)
+## [Live Demo](#)
 
 ---
 

@@ -9,31 +9,19 @@ In total it took me around 20 days to complete.
 
 ## Fully functional
 
-![light-full](https://user-images.githubusercontent.com/81135679/127759363-ae01e135-041d-4f2e-9139-6e1a3ffed70b.png)
-
----
-
-## Post Page
-
-![light-post](https://user-images.githubusercontent.com/81135679/127759378-f87072b8-9640-4882-a9af-3e370b7452cb.png)
-
----
-
-## Realtime Messaging
-
-![dark-messages](https://user-images.githubusercontent.com/81135679/127759447-011a5111-8f03-4b75-9f0e-b9b77009649b.png)
+![light-full](https://github.com/subratsir/Instagram-Clone/blob/main/Instagram_Clone_screenshot.JPG)
 
 ---
 
 ## User Profiles
 
-![dark-profile](https://user-images.githubusercontent.com/81135679/127759580-7e0aa20d-d922-4e10-bc5f-9a7ab371cef0.png)
+![dark-profile](https://github.com/subratsir/Instagram-Clone/blob/main/Instagram_Clone_screenshot1.JPG)
 
 ---
 
 ## Edit Profile
 
-![light-sidebar](https://user-images.githubusercontent.com/81135679/127760114-352ef70b-d49c-4881-a8a2-ddf5068e8f3e.png)
+![light-sidebar](https://github.com/subratsir/Instagram-Clone/blob/main/Instagram_Clone_screenshot2.JPG)
 
 ---
 
@@ -73,10 +61,15 @@ In total it took me around 20 days to complete.
 
 - built for mobile as well.
 
----
+## Author
+- [Subrat Sir](https://github.com/subratsir)
 
-## [Check it Out](https://joshwrn.github.io/instagram-clone/)
+## 🤝 Contributing
 
----
+Contributions, issues, and feature requests are welcome!
 
-![dark-card](https://user-images.githubusercontent.com/81135679/127759890-8896ec32-eb43-4e55-8e03-d374663b0ca3.png)
+Feel free to check the [issues page](https://github.com/subratsir/Instagram-Clone/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
